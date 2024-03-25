@@ -1,0 +1,36 @@
+.details{
+    font-size: 10px;
+    
+}
+
+.third{
+    font-size: 10px;
+}
+
+.fourthColum{
+    font-size: 10px;
+}
+
+.foot{
+    background-color: #7fa469;
+    height: 150px;
+}
+
+.mainFooter{
+    height: 0px;
+}
+
+.vv{
+    color: rgb(0, 0, 0);
+}
+
+.footerLink{
+    color: black;
+    font-size: 10px;
+    margin-top: 7px;
+    
+}
+
+.mainDiv{
+    justify-content: space-between;
+}

@@ -1,0 +1,27 @@
+.form-control{
+    width: 500px;
+    margin-left: 20px;
+}
+
+
+.form-label{
+    margin-left: 20px;
+}
+
+
+.mainsign{
+    background: #6DB45D;
+}
+
+.signuptext{
+    margin-left: 20px;
+}
+
+.btn{
+    margin-left: 20px;
+}
+
+.upin{
+   text-decoration: none;
+   
+}

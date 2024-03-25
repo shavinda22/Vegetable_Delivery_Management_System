@@ -1,0 +1,45 @@
+.topic{
+    font-weight: bold;
+    font-size: 34px;
+    padding: 0 20px;
+    
+}
+
+.aboutus{
+    background-color: #6CB15D;
+    background-size: cover;
+  background-position: center; 
+    padding-bottom: 20px;
+    font-style: italic;
+
+}
+
+
+.aboutpara1{
+    font-size: 22px;
+    padding-top: 50px;
+    padding-left: 20px;
+    
+}
+
+.aboutpara2{
+    font-size: 22px;
+    padding-left: 20px;
+
+}
+
+.aboutpara3{
+    font-size: 22px;
+    padding-left: 20px;
+
+}
+
+.aboutpara4{
+    font-size: 28px;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-top: 40px;
+    
+}

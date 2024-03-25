@@ -1,0 +1,21 @@
+
+
+.cartBar2{
+    background-color: #396033;
+    
+    color: #000000;
+    
+}
+.placeorderbutton{
+    background-color: #1f4f2f;
+    font-weight: 700;
+}
+
+.cartlabel{
+    border-style: solid;
+    border-color: aqua;
+}
+
+.emailInput{
+    margin-left: 50px;
+}

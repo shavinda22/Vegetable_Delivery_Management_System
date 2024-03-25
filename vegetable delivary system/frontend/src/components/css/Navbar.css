@@ -1,0 +1,19 @@
+img{
+    height: 60px;
+}
+
+.nav-link{
+    font-size: 22px;
+    
+    color: #000;
+    font-weight: 500;
+   
+}
+.navbar-nav{
+    
+   padding: 0 490px;
+   gap: 40px;
+}
+.navbar{
+    background-color: #6D9B50;
+}

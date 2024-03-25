@@ -1,0 +1,189 @@
+.hero{
+    background-image: url(../img/1920-banner-with-vegetables-copy-space-background-generative-ai.jpeg);
+    background-size:cover;
+    width: 1530px;
+    height: 644px;
+    padding-left: 10px;
+  
+   
+}
+    
+
+
+.wellcome{
+    font-weight: bold;
+    font-size: 70px;
+    color: white;
+    padding-top: 100px;
+}
+
+.homepara{
+    font-weight: 900;
+    font-size: 42px;
+    color: rgb(0, 0, 0);
+
+}
+.paragraphOne{
+    font-size: 22px;
+}
+
+.paragraphTwo{
+    font-size: 22px;
+}
+.btn{
+    color: #325C09;
+}
+
+.buttons{
+    display: flex;
+    flex-direction: row;
+   
+
+}
+
+.button{
+    width: 180px;
+    height: 55px;
+   background-color: #325C09;
+   gap: 10px;
+   justify-content: center;
+   align-items: center;
+   display: flex;
+   border-radius: 40px;
+   font-size: 34px;
+   font-weight:700;
+   color: white;
+   margin-right: 8px;
+   margin-top: 40px;
+   
+}
+.total{
+    margin: o 10px;
+}
+.firstvegi{
+    height: 110px;
+}
+
+.cardd{
+    height: 200px;
+    background-color: #D9D9D9;
+}
+
+.cardsrow1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.cardsrow2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.cardsrow3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+
+.home{
+    background-color: #6eb560;
+}
+
+.button:hover{
+color: #ccf0a4;
+}
+
+
+   .vegetable-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start; /* Adjust alignment as needed */
+    border-style: outset;
+    border-width: 4px;
+    
+  }
+  
+  .vegetable-item {
+    width: calc(33.33% - 10px); /* 33.33% for 3 items per row, adjust for spacing */
+    margin-bottom: 20px; /* Adjust spacing between rows */
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #0c1e06;
+    text-align: center;
+    box-sizing: border-box;
+    border-style: outset;
+    border-width: 5px;
+    font-weight: 700;
+    box-shadow: 3px 3px;
+    
+    
+  }
+  
+  .vegeName{
+    font-weight: 700;
+    text-shadow: 4px 4px #329934;
+  }
+
+
+  .crudButton{
+    font-weight: 700;
+    color: #000000;
+    background-color: #325C09;
+  }
+  .crudButton:hover{
+
+    color: #b0e1a7;
+
+  }
+
+.imgVegeHome{
+    border: 5px solid #225a3a;
+}
+
+.search-bar{
+  padding: 3px 0px;
+  margin:100px 0px;
+  width: 500px;
+  border: 5px solid #325C09;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.searchBtn{
+    padding: 8px 12px;
+    margin:10px;
+    background-color: #325C09  ; 
+    color: #fff;
+    border:none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; 
+  
+    
+    &:hover {
+      background-color: #3c7819; 
+    }
+}
+.logoutBtn{
+    position: relative;
+  bottom: 705px;
+  left: 1310px;
+  width: 130px;
+  height: 45px;
+ background-color: #3d6218;
+ gap: 10px;
+ justify-content: center;
+ align-items: center;
+ display: flex;
+ border-radius: 40px;
+ font-size: 19px;
+ font-weight:700;
+ color: #fff;
+ 
+
+}

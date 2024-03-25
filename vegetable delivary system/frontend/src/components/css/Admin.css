@@ -1,0 +1,21 @@
+.editbtn{
+    text-decoration: none;
+    color: black;
+    padding-right: 27px;
+    width: 130px;
+  height: 45px;
+  font-weight: 700;
+  color: #000000;
+  background-color: #325C09;
+
+}
+.editbtn:hover{
+   color: white;
+    
+}
+
+.vieworder{
+  color: rgb(68, 106, 183);
+  text-decoration:underline;
+  padding-left: 0px;
+}
